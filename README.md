@@ -1,5 +1,76 @@
 # project-242
 This is my first git project where I'm learning git and github from the very basic.
+
+# WHAT IS VIOLENCE AGAINST WOMEN?
+# WHERE DOES IT HAPPEN? AND WHY?
+
+Violence against women (VAW) is any act of
+gender-based violence (GBV) that results
+in or is likely to result in physical, sexual or
+psychological harm or suffering to women,
+including threats of such acts, coercion
+or arbitrary deprivation of liberty, whether
+occurring in public or private life.
+VAWG is a violation of human rights, an abuse
+of power and a major barrier to achieving
+decent and dignified work.
+Women and girls experience and fear
+various types of SH and other forms of
+violence in developed and developing
+countries, from unwanted sexual remarks
+and groping, to rape and femicide, whether
+on streets or public transport, in parks,
+on the way to schools and in and around
+workplaces including in tea growing areas,
+in public sanitation facilities, at water and
+food distribution sites, at home, or in their
+own neighborhoods.
+While women and girls of all social
+and economic strata experience and
+fear violence, women and girls living in
+poverty or belonging to socially excluded
+or stigmatized groups (indigenous,
+migrants, those living with disability or
+HIV/AIDS, displaced persons, etc.) may
+be more likely to experience violence,
+especially because of experiences of
+discrimination, inequality, and limited
+access to information, services,
+resources and justice. 
+The issue of limited access to quality
+essential services must also be seen when
+working in the context of rural and remote
+settings. While unique in geographic
+location, these communities often share
+a number of common characteristics,
+including their small size (in terms of
+population), market and labour supply,
+their physical isolation from other, and
+particularly larger urban centres, their
+lack of economic diversification, a weak
+and declining economic base and limited
+employment opportunities, high production
+and servicing costs, and a limited range of
+public and private services.
+Based on the data available, IPV and nonpartner sexual violence are among the
+most prevalent forms of VAWG globally.
+These forms of violence have serious
+consequences for women and their
+children, as well as for communities,
+workplaces, and countries. While there
+remains much to be learned, knowledge
+and practice relating to these forms are
+more advanced relative to other forms of
+VAWG. For these reasons, the GWSF draws
+from research and practice in addressing
+these forms of VAWG. However, many of
+the general principles and approaches,
+identified (See Section 2) may also apply
+to other forms of violence and harmful
+practices against women, since many of
+these forms of violence are interrelated
+and may share common risk factors.
+
 In this repo I'm going to talk about women safety promotion.
 # Promoting safety for women
 
@@ -18,4 +89,4 @@ Domestic violence can be physical or psychological, and it can affect anyone of 
 We want to create a workplace culture where people know they can access support safely and securely, so that employees can seek help without stigma and where staff have access to basic training to know how to respond appropriately if they feel a colleague is potentially at risk. That’s why we introduced our Global Domestic Violence and Abuse Policy.
  which details access to ‘safe leave’, flexible working conditions and support services.
 
-To mark International Women’s Day in March 2021, we offered open access to our policy to other businesses and organisations. Our Chief Brand Officer and Chief Diversity & Inclusion Officer, Aline Santos, also hosted a LinkedIn live event with the founder of the #MeToo movement, Tarana Burke. 
+To mark International Women’s Day in March 2021, we offered open access to our policy to other businesses and organisations. Our Chief Brand Officer and Chief Diversity & Inclusion Officer, Aline Santos, also hosted a LinkedIn live event with the founder of the #MeToo movement, Tarana Burke.
