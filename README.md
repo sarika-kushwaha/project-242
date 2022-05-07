@@ -1,5 +1,6 @@
 # project-242
 This is my first git project where I'm learning git and github from the very basic.
+In this repo I'm going to talk about women safety promotion.
 # Promoting safety for women
 
 We’re committed to respecting and promoting women’s rights, which includes the right to safety of women and girls.Women have suffered physical or sexual violence in their lifetime.
