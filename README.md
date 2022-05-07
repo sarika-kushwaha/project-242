@@ -18,4 +18,4 @@ Domestic violence can be physical or psychological, and it can affect anyone of 
 We want to create a workplace culture where people know they can access support safely and securely, so that employees can seek help without stigma and where staff have access to basic training to know how to respond appropriately if they feel a colleague is potentially at risk. That’s why we introduced our Global Domestic Violence and Abuse Policy.
  which details access to ‘safe leave’, flexible working conditions and support services.
 
-To mark International Women’s Day in March 2021, we offered open access to our policy to other businesses and organisations. 
+To mark International Women’s Day in March 2021, we offered open access to our policy to other businesses and organisations. Our Chief Brand Officer and Chief Diversity & Inclusion Officer, Aline Santos, also hosted a LinkedIn live event with the founder of the #MeToo movement, Tarana Burke. 
