@@ -1,8 +1,7 @@
 # project-242
 This is my first git project where I'm learning git and github from the very basic.
 
-# WHAT IS VIOLENCE AGAINST WOMEN?
-# WHERE DOES IT HAPPEN? AND WHY?
+# WHAT IS VIOLENCE AGAINST WOMEN? WHERE DOES IT HAPPEN? AND WHY?
 
 Violence against women (VAW) is any act of
 gender-based violence (GBV) that results
